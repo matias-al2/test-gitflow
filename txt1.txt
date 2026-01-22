@@ -1,2 +1,2 @@
 Test 1 GitFlow Propuesta branch main new feature A
-commits count: 1
+commits count: 2
