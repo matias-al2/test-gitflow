@@ -1,2 +1,4 @@
 Test 1 GitFlow Propuesta branch main new feature A
 commits count: 3
+feature C from integration
+commits count: 1
